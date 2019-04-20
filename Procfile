@@ -1,0 +1,1 @@
+web: java -cp target/classes:target/dependency/* org.apache.maven.RestServiceProject.heroku.Main
